@@ -12,7 +12,6 @@ hello world hello baby!
 hello world hello baby!
 hello world hello baby!
 hello world hello baby!
-hello world hello baby!
 hello world hello baby! master test
 hello world hello baby! hot-fix test
 
